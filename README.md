@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kinako0626-ota&count_private=true&show_icons=true&theme=gruvbox_light
+)
 
 <!--
 **kinako0626-ota/kinako0626-ota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
